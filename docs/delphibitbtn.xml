@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fpdoc-descriptions><package name="tdelphibitbtn"><module name="DelphiBitBtn"><element name="TDelphiBitBtn"><short>Overrides of Lazarus TBitBtn implementation, making it behave more like Delphi's class of the same name</short>
+      </element>
+    </module>
+  </package>
+</fpdoc-descriptions>
